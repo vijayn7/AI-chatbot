@@ -1,5 +1,5 @@
 // Replace this with your actual Microsoft Bot Framework Direct Line Secret
-const directLineSecret = 'YOUR_DIRECT_LINE_SECRET';
+const directLineSecret = 'JBUB2TM6ivY.wB-NhzIozP71ouCVV9auaDvEzTVYdsXdsRcHcgiQpEo';
 
 const botConnection = new window.WebChat.createDirectLine({ token: directLineSecret });
 
